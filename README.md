@@ -1,1 +1,1 @@
-# Explicit-FDM-radial-pressure-diffusion-solver-with-radius-dependent-permability
+#discretization and other details in the readme pdf
